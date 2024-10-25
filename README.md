@@ -5,6 +5,16 @@ Welcome to the **Rust Basics** repository! This repo contains a collection of ba
 ## Getting Started
 
 ### Prerequisites
-- **Install Rust**: Make sure you have [Rust](https://www.rust-lang.org/) installed. You can install it using [rustup](https://rustup.rs/):
-  ```bash
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+To begin, ensure you have Rust installed on your system. You can install it using the instructions specific to your platform:
+
+- **[Windows Installation](https://www.rust-lang.org/learn/get-started)**
+- **[macOS Installation](https://www.rust-lang.org/learn/get-started)**
+- **[Linux Installation](https://www.rust-lang.org/learn/get-started)**
+
+### Cloning the Repository
+
+Once Rust is installed, clone this repository to your local machine:
+```bash
+git clone https://github.com/Swarnavo2003/Rust.git
+cd rust-basics
